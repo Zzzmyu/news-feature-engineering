@@ -205,3 +205,17 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# 手动添加部分 - 项目特定
+*.npy
+*.npz
+*.csv
+*.pkl
+*.h5
+data/
+outputs/
+logs/
+models/
+*.tmp
+*.log
